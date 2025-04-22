@@ -212,7 +212,7 @@ export default function Home() {
               Quran GPT
             </h1>
             <p className="text-lg md:text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto mb-6">
-              An AI-powered Islamic knowledge base providing authentic answers from the Holy Quran
+              All QURAN Gpt
             </p>
             <div className="flex flex-wrap justify-center gap-2">
               <span className="px-3 py-1 text-xs font-medium bg-emerald-100 text-emerald-800 dark:bg-emerald-900/40 dark:text-emerald-300 rounded-full">AI-Powered</span>
